@@ -12,6 +12,6 @@ This software (which also means its copies/forks) can not be made closed-source;
 This software can not include closed-source blobs/binaries/scripts/packages/dependencies;
 This software can not be sold;
 The above copyright notice and this permission notice (except the credits to contributors/development leaders) shall be included in all copies or substantial portions of the Software;
-The bellow notice need to be included in a disclaimer file, accessible on software's installer and its menu:
+The bellow disclaimer notice need to be included in all copies or substantial portions of the Software, in a disclaimer file accessible on software's installer and its menu:
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
