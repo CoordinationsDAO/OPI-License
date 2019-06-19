@@ -9,9 +9,9 @@ software under copyright law.
 
 Anyone is free to copy, modify, publish, use, compile, or
 distribute this software, either in source code form or as a compiled
-binary, for any non-commercial purpose (except software that enables additional features through minimum donation of $1), and by any means that are not used for evil behaviour.
+binary, for any non-commercial purpose (except software that enables additional features through minimum donation of $1 or needs physical distribution), and by any means that are not used for evil behaviour.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction on free/libre, transparency and fairness focus/purpose, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, except sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction on free/libre, transparency and fairness focus/purpose, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, except sell copies of the Software (unless, as stated, is donation-ware or physically distributed), and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 1. This software (which also means its copies/forks) can not be made closed-source;
 2. This software can not include closed-source blobs/binaries/scripts/packages/dependencies;
