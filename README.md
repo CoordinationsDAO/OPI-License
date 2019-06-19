@@ -7,7 +7,7 @@ Free software/game licence conceived for DAOs, acting like public-domain but wit
 ## Characteristics
 
 - Community-domain (a securely restricted variant of public-domain)
-- Post-Meritocracy Manifesto compliant
+- <a href="https://postmeritocracy.org/" target="_blank">Post-Meritocracy Manifesto</a> compliant
 - Non-commercial purpose, unless it is donation-ware or physically distributed
 - Prevents forks to be created for evil behaviour
 - Incentives free/libre, transparency and fairness focus/purpose
@@ -29,7 +29,7 @@ Free software/game licence conceived for DAOs, acting like public-domain but wit
 ## Contributing
 
 This is a open-source and accessible license, so you're welcome to open a issue (with criticism/suggestions) and open pull requests with improvements.
-Please follow our Code of Conduct before interacting or contributing.
+Please follow our <a href="http://www.contributor-covenant.org/" target="_blank">Code of Conduct</a> before interacting or contributing.
 
 ## Todo
 
