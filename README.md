@@ -39,5 +39,6 @@ Please follow our Code of Conduct before interacting or contributing.
 
 - Profile+Blog
 - Site
+- Manifesto
 - Commit signing waiver (for Contributor License Agreement)
 - Contributor's credit file, about devleds
