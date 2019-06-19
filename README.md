@@ -30,6 +30,11 @@ Free software/game licence conceived for DAOs, acting like public-domain but wit
 
 - Any kind of content (sites, articles, books, musics, images, videos)
 
+## Contributing
+
+This is a open-source and accessible license, so you're welcome to open a issue (with criticism/suggestions) and open pull requests with improvements.
+Please follow our Code of Conduct before interacting or contributing.
+
 ## Todo
 
 - Profile+Blog
