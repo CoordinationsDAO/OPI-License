@@ -26,10 +26,6 @@ Free software/game licence conceived for DAOs, acting like public-domain but wit
 - "Copyright" notice and permission notice shall be included in the software
 - Disclaimer need to be included in software
 
-## Possible new uses
-
-- Any kind of content (sites, articles, books, musics, images, videos)
-
 ## Contributing
 
 This is a open-source and accessible license, so you're welcome to open a issue (with criticism/suggestions) and open pull requests with improvements.
@@ -42,6 +38,10 @@ Please follow our Code of Conduct before interacting or contributing.
 - Manifesto
 - Commit signing waiver (for Contributor License Agreement)
 - Contributor's credit file, about devleds
+
+## Possible new uses
+
+- Any kind of content (sites, articles, books, musics, images, videos)
 
 ## Related links
 
