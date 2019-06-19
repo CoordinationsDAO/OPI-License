@@ -42,3 +42,7 @@ Please follow our Code of Conduct before interacting or contributing.
 - Manifesto
 - Commit signing waiver (for Contributor License Agreement)
 - Contributor's credit file, about devleds
+
+## Related links
+
+- <a href="https://aragon.org" target="_blank">Create DAOs (Decentralized Autonomous Organizations) with Aragon</a>
