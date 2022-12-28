@@ -6,8 +6,7 @@ Free software/game licence conceived for DAOs, acting like public-domain but wit
 
 ## Characteristics
 
-- Community-domain (a securely restricted variant of public-domain)
-- <a href="https://postmeritocracy.org/" target="_blank">Post-Meritocracy Manifesto</a> compliant
+- Community(DAO)-domain (a securely restricted variant of public-domain)
 - Non-commercial purpose, unless it is donation-ware or physically distributed
 - Prevents forks to be created for evil behaviour
 - Incentives free/libre, transparency and fairness focus/purpose
@@ -16,13 +15,11 @@ Free software/game licence conceived for DAOs, acting like public-domain but wit
 ## Rules for its software
 
 - Can't be made closed-source
-- Can't include closed-source
 - Can't be sold, unless if donation-ware or physically distributed
 - If donation-ware, need to accept a minimum $25 if one-time payment, minimum $1 if monthly and/or minimum $12 if annual - any of these values can be lower - for activating its premium features
 - As previous case, any pro/premium features need to be open-source
-- Any downloaded resource from the software need to be open-source
 - Any in-app updates (and the ones on app/software stores, when applicable) should describe what is being removed/added/modified, provide the source-code of the update, its hash/signatures/checksums and option to build it with one click
-- For any contributor that provides significant changes, require to register its agreement with this license
+- For any contributor that provides significant changes, require to register its agreement (waiver) with this license
 - "Copyright" notice and permission notice shall be included in the software
 - Disclaimer need to be included in software
 
@@ -37,7 +34,7 @@ Please follow our <a href="http://www.contributor-covenant.org/" target="_blank"
 - Site
 - Manifesto
 - Commit signing waiver (for Contributor License Agreement)
-- Contributor's credit file, about devleds
+- Contributor's credit file, about devleads
 
 ## Possible new uses
 
